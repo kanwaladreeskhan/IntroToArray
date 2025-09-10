@@ -1,0 +1,7 @@
+C:\Users\FC Technologies\Documents\Visual Studio 2022\IntroToArray\IntroToArray\bin\Debug\IntroToArray.exe.config
+C:\Users\FC Technologies\Documents\Visual Studio 2022\IntroToArray\IntroToArray\bin\Debug\IntroToArray.exe
+C:\Users\FC Technologies\Documents\Visual Studio 2022\IntroToArray\IntroToArray\bin\Debug\IntroToArray.pdb
+C:\Users\FC Technologies\Documents\Visual Studio 2022\IntroToArray\IntroToArray\obj\Debug\IntroToArray.csproj.AssemblyReference.cache
+C:\Users\FC Technologies\Documents\Visual Studio 2022\IntroToArray\IntroToArray\obj\Debug\IntroToArray.csproj.CoreCompileInputs.cache
+C:\Users\FC Technologies\Documents\Visual Studio 2022\IntroToArray\IntroToArray\obj\Debug\IntroToArray.exe
+C:\Users\FC Technologies\Documents\Visual Studio 2022\IntroToArray\IntroToArray\obj\Debug\IntroToArray.pdb
